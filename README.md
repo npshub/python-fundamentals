@@ -4,4 +4,3 @@
 2. [ANPA Winter School, 2020](https://anpaschool.github.io/2020/index.html)
 3. [Coursera: Computational Statistical Mechanics](https://www.coursera.org/learn/statistical-mechanics)
 4. [Coursera: Wave and Oscillation, Numerical Method](https://www.coursera.org/learn/computers-waves-simulations)
-Python Basics
