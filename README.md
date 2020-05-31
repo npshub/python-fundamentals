@@ -1,3 +1,9 @@
+### Download Anaconda Python
+[Download from here](https://www.anaconda.com/products/individual).
+
+
+
+
 ### Python Resources
 
 1. [ANPA Summer School, 2019](https://anpaschool.github.io/2019/index.html)
