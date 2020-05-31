@@ -1,5 +1,5 @@
 ### Download Anaconda Python
-[Download from here](https://www.anaconda.com/products/individual).
+[Download from here](https://www.anaconda.com/products/individual). Lunch Jupyter Notebook.
 
 
 
