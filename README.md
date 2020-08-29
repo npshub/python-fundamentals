@@ -1,8 +1,7 @@
+![img](computing.png)
+
 ### Download Anaconda Python
 [Download from here](https://www.anaconda.com/products/individual). Lunch Jupyter Notebook.
-
-
-
 
 ### Python Resources
 
